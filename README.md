@@ -29,7 +29,7 @@ Email: 6970067621@student.chula.ac.rh
 
 🖼️ 2. Picture
 
-![Quote](Picture/Quote.png)
+![Quote](Picture/Quote.jpg)
 
 🎞️ 3. Animation
 
