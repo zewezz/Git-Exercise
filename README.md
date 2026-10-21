@@ -33,7 +33,7 @@ Email: 6970067621@student.chula.ac.rh
 
 🎞️ 3. Animation
 
-![Git Animation](Animation/GitGif.gif)
+![Git Animation](Animation/GITGIF.gif)
 
 💬 4. Quote
 
